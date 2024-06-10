@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PlanetsApp</string>
+    <string name="planet_name">Planet Name</string>
+    <string name="moons">0 moons</string>
 </resources>
